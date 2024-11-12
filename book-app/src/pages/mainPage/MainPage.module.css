@@ -1,0 +1,13 @@
+.wrapper {
+    width: 1440px;
+    height: 736px;
+}
+
+.word {
+    font-weight: 400;
+    font-size: 32px;
+    color: #000;
+    position: absolute;
+    left: 597px;
+    top: 60px;
+}
